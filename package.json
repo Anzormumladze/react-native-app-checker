@@ -1,6 +1,6 @@
 {
   "name": "react-native-android-app-checker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A React Native plugin for checking if specific Android apps/packages are installed on the device.",
   "main": "index.js",
   "types": "index.d.ts",
