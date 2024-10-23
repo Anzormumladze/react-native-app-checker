@@ -1,16 +1,14 @@
 {
   "name": "react-native-app-checker",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {},
-  "keywords": [
-    "react-native",
-    "android",
-    "app",
-    "check",
-    "package"
-  ]
+  "version": "0.0.0",
+  "description": "AboutReact Native plugin for checking if apps/packages are installed on the device or not.",
+  "main": "src/index",
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme",
+  "create-react-native-library": {
+    "type": "module-legacy",
+    "languages": "kotlin-objc",
+    "version": "0.42.0"
+  }
 }
