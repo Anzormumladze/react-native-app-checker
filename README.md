@@ -15,13 +15,13 @@ A React Native module to check if specific Android apps are installed on a devic
 You can install the module directly from your GitHub repository:
 
 ```bash
-npm install git+https://github.com/Anzormumladze/react-native-app-checker.git
+npm i react-native-android-app-checker
 ```
 
 Or using Yarn:
 
 ```bash
-yarn add https://github.com/Anzormumladze/react-native-app-checker.git
+yarn add react-native-android-app-checker
 ```
 
 ## Android Setup
