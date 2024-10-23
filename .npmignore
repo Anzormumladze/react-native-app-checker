@@ -1,0 +1,4 @@
+example/
+tests/
+node_modules/
+.gitignore
