@@ -3,7 +3,6 @@
   "version": "1.0.2",
   "description": "A React Native plugin for checking if specific Android apps/packages are installed on the device.",
   "main": "index.js",
-  "types": "index.d.ts",
   "author": "Anzor Mumladze",
   "license": "MIT",
   "homepage": "https://github.com/Anzormumladze/react-native-app-checker#readme",
