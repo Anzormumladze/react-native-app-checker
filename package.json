@@ -2,7 +2,7 @@
   "name": "react-native-app-checker",
   "version": "0.0.0",
   "description": "AboutReact Native plugin for checking if apps/packages are installed on the device or not.",
-  "main": "src/index",
+  "main": "index.js",
   "author": " <> ()",
   "license": "UNLICENSED",
   "homepage": "#readme",
